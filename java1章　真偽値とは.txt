@@ -1,16 +1,16 @@
 class Main {
   public static void main(String[] args) {
     // 「true」を用いて、「真」を表す真偽値を出力してください
-    System.out.println(true);
+    System.out.println(⓵);
     
     // 「false」を用いて、「偽」を表す真偽値を出力してください
-    System.out.println(false);
+    System.out.println(②);
     
     // 「==」を用いて、値を比較した結果を出力してください
-    System.out.println(12 / 4 == 3);
+    System.out.println(③);
     
     // 「!=」を用いて、値を比較した結果を出力してください
-    System.out.println(12 / 4 != 3);
+    System.out.println(④);
     
     // 変数を定義し、値を比較した結果を代入してください
     boolean bool = 3*9 == 27;
@@ -21,6 +21,13 @@ class Main {
   }
 }
 
+
+
+解答
+⓵true
+②false
+③12 / 4 == 3
+④12 / 4 != 3
 
 
 
